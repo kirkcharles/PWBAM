@@ -400,6 +400,596 @@ answer: 0,
         options: ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane", "Kathy Bates"],
         answer: 0,
         },
+
+
+
+        {
+          question: "What is the name of the economic theory that emphasizes the importance of free markets, private property, and minimal government intervention in the economy?",
+          options: ["Classical economics", "Keynesian economics", "Austrian economics", "Chicago school of economics"],
+          answer: 3,
+          },
+          {
+          question: "What is the name of the measure of the level of joblessness in an economy?",
+          options: ["Gross domestic product", "Consumer price index", "Unemployment rate", "Inflation rate"],
+          answer: 2,
+          },
+          {
+          question: "What is the name of the economic system in which the means of production are owned and controlled by private individuals or entities?",
+          options: ["Socialism", "Capitalism", "Communism", "Fascism"],
+          answer: 1,
+          },
+          {
+          question: "What is the term for a situation in which there is a sustained decline in the general price level of goods and services in an economy?",
+          options: ["Recession", "Deflation", "Stagflation", "Hyperinflation"],
+          answer: 1,
+          },
+  
+          {
+              question: "What is the name of the scientist who first proposed the theory of continental drift?",
+              options: ["Charles Darwin", "Alfred Wegener", "James Hutton", "Johannes Kepler"],
+              answer: 1,
+              },
+              {
+              question: "What is the name of the phenomenon in which an electron moves through a superconductor with zero electrical resistance?",
+              options: ["Superfluidity", "Superposition", "Superconductivity", "Supersymmetry"],
+              answer: 2,
+              },
+              {
+              question: "What is the name of the historical era that began with the end of the Paleolithic era and the beginning of agriculture?",
+              options: ["Neolithic", "Bronze Age", "Iron Age", "Renaissance"],
+              answer: 0,
+              },
+              {
+              question: "What is the name of the economic theory that argues that government deficits are necessary to stimulate economic growth during a recession?",
+              options: ["Supply-side economics", "Monetarism", "New Keynesianism", "Modern Monetary Theory"],
+              answer: 3,
+              },
+              {
+              question: "What is the name of the Japanese art of paper folding?",
+              options: ["Kirigami", "Origami", "Tatting", "Quilling"],
+              answer: 1,
+              },
+              {
+              question: "What is the name of the largest moon of Neptune?",
+              options: ["Triton", "Nereid", "Proteus", "Larissa"],
+              answer: 0,
+              },
+              {
+              question: "What is the name of the famous theorem in mathematics that states that any continuous, closed curve in a plane can be drawn without lifting the pencil from the paper?",
+              options: ["Pythagorean theorem", "Fermat's last theorem", "Poincaré conjecture", "Jordan curve theorem"],
+              answer: 3,
+              },
+              {
+              question: "What is the name of the scientist who first proposed the law of universal gravitation?",
+              options: ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
+              answer: 0,
+              },
+              {
+              question: "What is the name of the technology that enables computers to understand and interpret human language?",
+              options: ["Machine learning", "Artificial intelligence", "Natural language processing", "Speech recognition"],
+              answer: 2,
+              },
+              {
+              question: "What is the name of the ancient city in present-day Iraq that was the center of the Babylonian Empire?",
+              options: ["Persepolis", "Nineveh", "Uruk", "Babylon"],
+              answer: 3,
+              },
+              {
+              question: "What is the name of the process by which a solid changes directly to a gas without passing through the liquid state?",
+              options: ["Melting", "Freezing", "Sublimation", "Condensation"],
+              answer: 2,
+              },
+              {
+              question: "What is the name of the particle in physics that is responsible for the force of gravity?",
+              options: ["Photon", "Graviton", "W boson", "Z boson"],
+              answer: 1,
+              },
+              {
+              question: "What is the name of the disease that caused the Black Death in Europe in the 14th century?",
+              options: ["Smallpox", "Measles", "Plague", "Typhus"],
+              answer: 2,
+              },
+  
+
+              {
+                question: "Who is the author of the novel 'The Grapes of Wrath'?",
+                options: ["John Steinbeck", "Ernest Hemingway", "F. Scott Fitzgerald", "Virginia Woolf"],
+                answer: 0,
+                },
+                {
+                question: "What is the name of the world's largest delta?",
+                options: ["Okavango Delta", "Ganges-Brahmaputra Delta", "Mekong Delta", "Niger Delta"],
+                answer: 1,
+                },
+                {
+                question: "Who is the lead actor in the movie 'The Shawshank Redemption'?",
+                options: ["Tim Robbins", "Morgan Freeman", "Tom Hanks", "Brad Pitt"],
+                answer: 0,
+                },
+                {
+                question: "What is the name of the chemical element with the symbol 'Na'?",
+                options: ["Sodium", "Chlorine", "Nitrogen", "Carbon"],
+                answer: 0,
+                },
+                {
+                question: "Who is the lead actor in the movie 'Pulp Fiction'?",
+                options: ["John Travolta", "Samuel L. Jackson", "Uma Thurman", "Harvey Keitel"],
+                answer: 0,
+                },
+                {
+                question: "What is the name of the world's largest bay?",
+                options: ["Bay of Bengal", "Hudson Bay", "Gulf of Mexico", "Bay of Fundy"],
+                answer: 0,
+                },
+                {
+                question: "Who is the author of the novel '1984'?",
+                options: ["George Orwell", "Aldous Huxley", "J.D. Salinger", "Ernest Hemingway"],
+                answer: 0,
+                },
+                {
+                question: "What is the name of the chemical element with the symbol 'Ca'?",
+                options: ["Calcium", "Chlorine", "Carbon", "Copper"],
+                answer: 0,
+                },
+                {
+                question: "Who is the lead actor in the movie 'Saving Private Ryan'?",
+                options: ["Tom Hanks", "Matt Damon", "Edward Burns", "Tom Sizemore"],
+                answer: 0,
+                },
+                {
+                question: "What is the name of the world's largest hot desert?",
+                options: ["Sahara", "Arabian", "Gobi", "Antarctic"],
+                answer: 0,
+                },
+                {
+                question: "What is the name of the world's tallest tree species?",
+                options: ["Redwood", "Oak", "Birch", "Pine"],
+                answer: 0,
+                },
+                {
+                question: "Who is the lead actor in the movie 'The Departed'?",
+                options: ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson", "Mark Wahlberg"],
+                answer: 0,
+                },
+                {
+                question: "What is the name of the world's largest bay by area?",
+                options: ["Bay of Bengal", "Hudson Bay", "Gulf of Mexico", "Bay of Fundy"],
+                answer: 1,
+                },
+                {
+                question: "What is the name of the world's largest waterfall by width?",
+                options: ["Niagara Falls", "Angel Falls", "Victoria Falls", "Iguazu Falls"],
+                answer: 3,
+                },
+                {
+                    question: "What is the name of the largest moon of Saturn?",
+                    options: ["Titan", "Europa", "Ganymede", "Callisto"],
+                    answer: 0,
+                    },
+                    {
+                    question: "Which country is the world's largest producer of coffee?",
+                    options: ["Brazil", "Colombia", "Vietnam", "Ethiopia"],
+                    answer: 0,
+                    },
+                    {
+                    question: "What is the name of the nuclear disaster that occurred in Ukraine in 1986?",
+                    options: ["Chernobyl", "Three Mile Island", "Fukushima", "Hiroshima"],
+                    answer: 0,
+                    },
+                    {
+                    question: "Who is the current President of France?",
+                    options: ["Emmanuel Macron", "François Hollande", "Nicolas Sarkozy", "Jacques Chirac"],
+                    answer: 0,
+                    },
+                    {
+                    question: "What is the name of the largest planet in our solar system?",
+                    options: ["Jupiter", "Saturn", "Mars", "Venus"],
+                    answer: 0,
+                    },
+                    {
+                    question: "Who is the current Prime Minister of Canada?",
+                    options: ["Justin Trudeau", "Stephen Harper", "Jean Chrétien", "Brian Mulroney"],
+                    answer: 0,
+                    },
+                    {
+                    question: "What is the name of the world's largest oil producing country?",
+                    options: ["United States", "Saudi Arabia", "Russia", "Iran"],
+                    answer: 1,
+                    },
+                    {
+                    question: "What is the name of the largest continent by area?",
+                    options: ["Asia", "Africa", "North America", "Europe"],
+                    answer: 0,
+                    },
+                    {
+                    question: "What is the name of the current Chancellor of Germany?",
+                    options: ["Angela Merkel", "Gerhard Schröder", "Helmut Kohl", "Willy Brandt"],
+                    answer: 0,
+                    },
+                    {
+                    question: "What is the name of the largest organ in the human body?",
+                    options: ["Liver", "Brain", "Heart", "Skin"],
+                    answer: 3,
+                    },
+                    {
+                    question: "Who is the current Prime Minister of India?",
+                    options: ["Narendra Modi", "Rahul Gandhi", "Manmohan Singh", "Indira Gandhi"],
+                    answer: 0,
+                    },
+                    {
+                    question: "What is the name of the largest animal on Earth?",
+                    options: ["Blue whale", "African elephant", "Giraffe", "Hippopotamus"],
+                    answer: 0,
+                    },
+                    {
+                    question: "Who is the current Prime Minister of the United Kingdom?",
+                    options: ["Boris Johnson", "Theresa May", "David Cameron", "Tony Blair"],
+                    answer: 0,
+                    },
+                    {
+                    question: "What is the name of the largest bird in the world?",
+                    options: ["Ostrich", "Condor", "Eagle", "Swan"],
+                    answer: 0,
+                    },
+                    {
+                    question: "Who is the current President of the United States?",
+                    options: ["Joe Biden", "Donald Trump", "Barack Obama", "George W. Bush"],
+                    answer: 0,
+                    },
+                    {
+                    question: "What is the name of the largest ocean by area?",
+                    options: ["Pacific", "Atlantic", "Indian", "Southern"],
+                    answer: 0,
+                    },
+                    {
+                        question: "What is the capital of Switzerland?",
+                        options: ["Geneva", "Zurich", "Bern", "Basel"],
+                        answer: 2,
+                        },
+                        {
+                        question: "What is the name of the world's largest coral reef system?",
+                        options: ["Great Barrier Reef", "Hawaiian Reef", "Belize Barrier Reef", "Andros Barrier Reef"],
+                        answer: 0,
+                        },
+                        {
+                        question: "Who is the founder of SpaceX?",
+                        options: ["Elon Musk", "Jeff Bezos", "Mark Zuckerberg", "Steve Jobs"],
+                        answer: 0,
+                        },
+                        {
+                        question: "What is the name of the world's largest river by discharge?",
+                        options: ["Amazon", "Nile", "Yangtze", "Mississippi"],
+                        answer: 0,
+                        },
+                        {
+                        question: "What is the name of the messaging app developed by Google?",
+                        options: ["WhatsApp", "Facebook Messenger", "Snapchat", "Google Hangouts"],
+                        answer: 3,
+                        },
+                        {
+                        question: "What is the name of the world's largest lake by volume?",
+                        options: ["Superior", "Huron", "Victoria", "Caspian Sea"],
+                        answer: 3,
+                        },
+                        {
+                        question: "What is the name of the social networking site that allows users to 'pin' images and videos?",
+                        options: ["Facebook", "Twitter", "Instagram", "Pinterest"],
+                        answer: 3,
+                        },
+                        {
+                        question: "What is the name of the world's largest island?",
+                        options: ["Greenland", "Madagascar", "Borneo", "Sumatra"],
+                        answer: 0,
+                        },
+                        {
+                        question: "What is the name of the software company that produces Photoshop, Acrobat, and InDesign?",
+                        options: ["Microsoft", "Apple", "Adobe", "Oracle"],
+                        answer: 2,
+                        },
+                        {
+                        question: "What is the name of the world's largest country by area?",
+                        options: ["Russia", "China", "United States", "Brazil"],
+                        answer: 0,
+                        },
+                        {
+                        question: "What is the name of the online payment system owned by eBay?",
+                        options: ["PayPal", "Stripe", "Square", "Venmo"],
+                        answer: 0,
+                        },
+                        {
+                        question: "What is the name of the world's largest bay?",
+                        options: ["Bay of Bengal", "Hudson Bay", "Gulf of Mexico", "Bay of Fundy"],
+                        answer: 0,
+                        },
+                        {
+                        question: "What is the name of the company that produces the Android operating system?",
+                        options: ["Apple", "Samsung", "Microsoft", "Google"],
+                        answer: 3,
+                        },
+                        {
+                        question: "What is the name of the world's largest river by length?",
+                        options: ["Amazon", "Nile", "Yangtze", "Mississippi"],
+                        answer: 1,
+                        },
+                        {
+                        question: "What is the name of the company that produces the iPhone?",
+                        options: ["Apple", "Samsung", "Microsoft", "Google"],
+                        answer: 0,
+                        },
+                      
+                        {
+                            question: "What is the largest stock exchange in the world by market capitalization?",
+                            options: ["New York Stock Exchange", "Shanghai Stock Exchange", "Nasdaq", "Tokyo Stock Exchange"],
+                            answer: 2,
+                            },
+                            {
+                            question: "What is the term for the price at which an investor can sell an asset in a financial market?",
+                            options: ["Ask price", "Bid price", "Strike price", "Spot price"],
+                            answer: 0,
+                            },
+                            {
+                            question: "What is the name of the investment strategy that seeks to track the performance of a specific stock market index?",
+                            options: ["Active management", "Passive management", "Index fund", "Hedge fund"],
+                            answer: 2,
+                            },
+                            {
+                            question: "What is the name of the largest hedge fund in the world?",
+                            options: ["Bridgewater Associates", "Renaissance Technologies", "AQR Capital Management", "Two Sigma Investments"],
+                            answer: 0,
+                            },
+                            {
+                            question: "What is the name of the financial index that measures the performance of the 30 largest companies listed on the Frankfurt Stock Exchange?",
+                            options: ["Dow Jones Industrial Average", "S&P 500", "Nikkei 225", "DAX"],
+                            answer: 3,
+                            },
+                            {
+                            question: "What is the name of the investment vehicle that pools money from multiple investors to buy a diversified portfolio of stocks, bonds, and other securities?",
+                            options: ["Mutual fund", "Exchange-traded fund", "Hedge fund", "Private equity fund"],
+                            answer: 0,
+                            },
+                            {
+                            question: "What is the name of the financial index that measures the performance of the 100 largest companies listed on the London Stock Exchange?",
+                            options: ["FTSE 100", "CAC 40", "Hang Seng Index", "Sensex"],
+                            answer: 0,
+                            },
+                            {
+                            question: "What is the name of the financial index that measures the performance of the 225 largest companies listed on the Tokyo Stock Exchange?",
+                            options: ["Nasdaq", "S&P/ASX 200", "Nikkei 225", "Hang Seng Index"],
+                            answer: 2,
+                            },
+                            {
+                            question: "What is the name of the financial index that measures the performance of the 500 largest publicly traded companies in the United States?",
+                            options: ["Dow Jones Industrial Average", "S&P 500", "Nasdaq Composite", "Russell 2000"],
+                            answer: 1,
+                            },
+                            {
+                            question: "What is the name of the largest investment bank in the world by revenue?",
+                            options: ["Goldman Sachs", "JPMorgan Chase", "Morgan Stanley", "Citigroup"],
+                            answer: 1,
+                            },
+                            {
+                            question: "What is the name of the financial index that measures the performance of the 40 largest companies listed on the Paris Stock Exchange?",
+                            options: ["DAX", "IBEX 35", "CAC 40", "FTSE MIB"],
+                            answer: 2,
+                            },
+                            {
+                            question: "What is the term for a financial instrument that represents ownership in a corporation?",
+                            options: ["Bond", "Stock", "Derivative", "Commodity"],
+                            answer: 1,
+                            },
+
+     
+      {
+          question: "Who is the author of the novel 'The Grapes of Wrath'?",
+          options: ["John Steinbeck", "Ernest Hemingway", "F. Scott Fitzgerald", "Virginia Woolf"],
+          answer: 0,
+          },
+          {
+          question: "What is the name of the world's largest delta?",
+          options: ["Okavango Delta", "Ganges-Brahmaputra Delta", "Mekong Delta", "Niger Delta"],
+          answer: 1,
+          },
+          {
+          question: "Who is the lead actor in the movie 'The Shawshank Redemption'?",
+          options: ["Tim Robbins", "Morgan Freeman", "Tom Hanks", "Brad Pitt"],
+          answer: 0,
+          },
+          {
+          question: "What is the name of the chemical element with the symbol 'Na'?",
+          options: ["Sodium", "Chlorine", "Nitrogen", "Carbon"],
+          answer: 0,
+          },
+          {
+          question: "Who is the lead actor in the movie 'Pulp Fiction'?",
+          options: ["John Travolta", "Samuel L. Jackson", "Uma Thurman", "Harvey Keitel"],
+          answer: 0,
+          },
+          {
+          question: "What is the name of the world's largest bay?",
+          options: ["Bay of Bengal", "Hudson Bay", "Gulf of Mexico", "Bay of Fundy"],
+          answer: 0,
+          },
+          {
+          question: "Who is the author of the novel '1984'?",
+          options: ["George Orwell", "Aldous Huxley", "J.D. Salinger", "Ernest Hemingway"],
+          answer: 0,
+          },
+          {
+          question: "What is the name of the chemical element with the symbol 'Ca'?",
+          options: ["Calcium", "Chlorine", "Carbon", "Copper"],
+          answer: 0,
+          },
+          {
+          question: "Who is the lead actor in the movie 'Saving Private Ryan'?",
+          options: ["Tom Hanks", "Matt Damon", "Edward Burns", "Tom Sizemore"],
+          answer: 0,
+          },
+          {
+          question: "What is the name of the world's largest hot desert?",
+          options: ["Sahara", "Arabian", "Gobi", "Antarctic"],
+          answer: 0,
+          },
+          {
+          question: "What is the name of the world's tallest tree species?",
+          options: ["Redwood", "Oak", "Birch", "Pine"],
+          answer: 0,
+          },
+          {
+          question: "Who is the lead actor in the movie 'The Departed'?",
+          options: ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson", "Mark Wahlberg"],
+          answer: 0,
+          },
+          {
+          question: "What is the name of the world's largest bay by area?",
+          options: ["Bay of Bengal", "Hudson Bay", "Gulf of Mexico", "Bay of Fundy"],
+          answer: 1,
+          },
+          {
+          question: "What is the name of the world's largest waterfall by width?",
+          options: ["Niagara Falls", "Angel Falls", "Victoria Falls", "Iguazu Falls"],
+          answer: 3,
+          },
+          {
+              question: "What is the name of the law in physics that states that the entropy of a closed system always increases over time?",
+              options: ["Newton's laws of motion", "Law of conservation of energy", "Second law of thermodynamics", "Hooke's law"],
+              answer: 2,
+              },
+              {
+              question: "What is the name of the smallest unit of a chemical element that retains the chemical properties of that element?",
+              options: ["Proton", "Electron", "Neutron", "Atom"],
+              answer: 3,
+              },
+              {
+              question: "What is the name of the ancient civilization that built the city of Machu Picchu in present-day Peru?",
+              options: ["Aztec", "Inca", "Maya", "Toltec"],
+              answer: 1,
+              },
+              {
+              question: "What is the name of the process by which plants use energy from sunlight to convert carbon dioxide and water into glucose?",
+              options: ["Photosynthesis", "Respiration", "Fermentation", "Glycolysis"],
+              answer: 0,
+              },
+              {
+              question: "What is the name of the largest artery in the human body?",
+              options: ["Femoral artery", "Carotid artery", "Aorta", "Brachial artery"],
+              answer: 2,
+              },
+              {
+              question: "What is the name of the concept in physics that states that particles can exist in multiple states or locations at the same time?",
+              options: ["Quantum entanglement", "Quantum superposition", "Quantum tunneling", "Quantum decoherence"],
+              answer: 1,
+              },
+              {
+              question: "What is the name of the historical period in Japan that began in 1185 and ended in 1333?",
+              options: ["Edo period", "Heian period", "Kamakura period", "Muromachi period"],
+              answer: 2,
+              },
+              {
+              question: "What is the name of the process by which an organism evolves to become better suited to its environment?",
+              options: ["Natural selection", "Genetic mutation", "Gene flow", "Genetic drift"],
+              answer: 0,
+              },
+              {
+              question: "What is the name of the element with the atomic number 92 and the symbol U?",
+              options: ["Uranium", "Plutonium", "Neptunium", "Americium"],
+              answer: 0,
+              },
+              {
+              question: "What is the name of the Russian monk who famously contributed to the development of the periodic table?",
+              options: ["Dmitri Mendeleev", "Ivan Pavlov", "Lev Landau", "Andrei Sakharov"],
+              answer: 0,
+              },
+              {
+                  question: "What is the name of the German philosopher who wrote 'Beyond Good and Evil' and 'Thus Spoke Zarathustra'?",
+                  options: ["Immanuel Kant", "Friedrich Nietzsche", "Jean-Paul Sartre", "Martin Heidegger"],
+                  answer: 1,
+                  },
+                  {
+                  question: "What is the name of the particle in physics that carries the weak force?",
+                  options: ["Photon", "W boson", "Graviton", "Z boson"],
+                  answer: 1,
+                  },
+                  {
+                  question: "What is the name of the ancient civilization that built the city of Petra in present-day Jordan?",
+                  options: ["Hittites", "Assyrians", "Babylonians", "Nabataeans"],
+                  answer: 3,
+                  },
+                  {
+                  question: "What is the name of the phenomenon in physics that states that particles can be connected in such a way that the state of one particle affects the state of another, regardless of the distance between them?",
+                  options: ["Quantum entanglement", "Quantum superposition", "Quantum tunneling", "Quantum decoherence"],
+                  answer: 0,
+                  },
+                  {
+                  question: "What is the name of the famous equation in physics that relates mass and energy?",
+                  options: ["Newton's second law", "Einstein's equation", "Planck's law", "Heisenberg's uncertainty principle"],
+                  answer: 1,
+                  },
+                  {
+                  question: "What is the name of the largest vein in the human body?",
+                  options: ["Jugular vein", "Femoral vein", "Hepatic vein", "Vena cava"],
+                  answer: 3,
+                  },
+                  {
+                  question: "What is the name of the ancient Greek mathematician who discovered the Pythagorean theorem?",
+                  options: ["Euclid", "Pythagoras", "Archimedes", "Thales"],
+                  answer: 1,
+                  },
+                  {
+                  question: "What is the name of the process by which a cell divides into two identical daughter cells?",
+                  options: ["Meiosis", "Mitosis", "Replication", "Transcription"],
+                  answer: 1,
+                  },
+                  {
+                  question: "What is the name of the phenomenon in physics that causes the deflection of moving objects when they are viewed from a rotating frame of reference?",
+                  options: ["Lorentz transformation", "Foucault pendulum", "Coriolis effect", "Einstein's equivalence principle"],
+                  answer: 2,
+                  },
+                  {
+                  question: "What is the name of the American mathematician who was portrayed by Russell Crowe in the movie 'A Beautiful Mind'?",
+                  options: ["John Nash", "Paul Erdős", "Andrew Wiles", "Terence Tao"],
+                  answer: 0,
+                  },
+                  {
+                      question: "What was the name of the battle fought on June 18, 1815, in which the French army under Napoleon Bonaparte was defeated by the British and Prussian armies?",
+                      options: ["Battle of Waterloo", "Battle of Austerlitz", "Battle of Borodino", "Battle of Leipzig"],
+                      answer: 0,
+                      },
+                      {
+                      question: "What was the name of the battle fought on June 6, 1944, in which Allied forces landed on the beaches of Normandy, France, and began the liberation of Western Europe from Nazi Germany?",
+                      options: ["Battle of Stalingrad", "Battle of the Bulge", "Battle of Midway", "D-Day"],
+                      answer: 3,
+                      },
+                      {
+                      question: "What was the name of the naval battle fought on October 25, 1944, in which the United States Navy defeated the Imperial Japanese Navy and effectively ended Japan's ability to conduct large-scale naval operations?",
+                      options: ["Battle of the Coral Sea", "Battle of Guadalcanal", "Battle of Leyte Gulf", "Battle of Iwo Jima"],
+                      answer: 2,
+                      },
+                      {
+                      question: "What was the name of the battle fought on September 17, 1862, in which Confederate forces under General Robert E. Lee clashed with Union forces under General George B. McClellan in the American Civil War?",
+                      options: ["Battle of Gettysburg", "Battle of Antietam", "Battle of Chancellorsville", "Battle of Bull Run"],
+                      answer: 1,
+                      },
+                      {
+                      question: "What was the name of the battle fought on October 14, 1066, in which William the Conqueror of Normandy defeated King Harold of England and established Norman rule in England?",
+                      options: ["Battle of Hastings", "Battle of Stamford Bridge", "Battle of Agincourt", "Battle of Bosworth Field"],
+                      answer: 0,
+                      },
+                      {
+                      question: "What was the name of the battle fought on June 4-7, 1942, in which United States naval and air forces defeated a Japanese fleet near Midway Island and turned the tide of the Pacific War?",
+                      options: ["Battle of the Coral Sea", "Battle of Guadalcanal", "Battle of Leyte Gulf", "Battle of Midway"],
+                      answer: 3,
+                      },
+                      {
+                      question: "What was the name of the battle fought on July 1-3, 1863, in which Confederate forces under General Robert E. Lee were defeated by Union forces under General George G. Meade in the American Civil War?",
+                      options: ["Battle of Gettysburg", "Battle of Antietam", "Battle of Chancellorsville", "Battle of Bull Run"],
+                      answer: 0,
+                      },
+                      {
+                      question: "What was the name of the battle fought on November 30, 1874, in which British forces under General Frederick Roberts defeated Afghan forces led by Akbar Khan in the Second Anglo-Afghan War?",
+                      options: ["Battle of Isandlwana", "Battle of Maiwand", "Battle of Kabul", "Battle of Kandahar"],
+                      answer: 3,
+                      },
+
     // Add your easy questions here
 ];
 
@@ -419,292 +1009,7 @@ const moderateQuestions = [
     options: ["Quentin Tarantino", "Martin Scorsese", "Steven Spielberg", "Christopher Nolan"],
     answer: 0,
     },
-    {
-        question: "Who is the author of the novel 'The Grapes of Wrath'?",
-        options: ["John Steinbeck", "Ernest Hemingway", "F. Scott Fitzgerald", "Virginia Woolf"],
-        answer: 0,
-        },
-        {
-        question: "What is the name of the world's largest delta?",
-        options: ["Okavango Delta", "Ganges-Brahmaputra Delta", "Mekong Delta", "Niger Delta"],
-        answer: 1,
-        },
-        {
-        question: "Who is the lead actor in the movie 'The Shawshank Redemption'?",
-        options: ["Tim Robbins", "Morgan Freeman", "Tom Hanks", "Brad Pitt"],
-        answer: 0,
-        },
-        {
-        question: "What is the name of the chemical element with the symbol 'Na'?",
-        options: ["Sodium", "Chlorine", "Nitrogen", "Carbon"],
-        answer: 0,
-        },
-        {
-        question: "Who is the lead actor in the movie 'Pulp Fiction'?",
-        options: ["John Travolta", "Samuel L. Jackson", "Uma Thurman", "Harvey Keitel"],
-        answer: 0,
-        },
-        {
-        question: "What is the name of the world's largest bay?",
-        options: ["Bay of Bengal", "Hudson Bay", "Gulf of Mexico", "Bay of Fundy"],
-        answer: 0,
-        },
-        {
-        question: "Who is the author of the novel '1984'?",
-        options: ["George Orwell", "Aldous Huxley", "J.D. Salinger", "Ernest Hemingway"],
-        answer: 0,
-        },
-        {
-        question: "What is the name of the chemical element with the symbol 'Ca'?",
-        options: ["Calcium", "Chlorine", "Carbon", "Copper"],
-        answer: 0,
-        },
-        {
-        question: "Who is the lead actor in the movie 'Saving Private Ryan'?",
-        options: ["Tom Hanks", "Matt Damon", "Edward Burns", "Tom Sizemore"],
-        answer: 0,
-        },
-        {
-        question: "What is the name of the world's largest hot desert?",
-        options: ["Sahara", "Arabian", "Gobi", "Antarctic"],
-        answer: 0,
-        },
-        {
-        question: "What is the name of the world's tallest tree species?",
-        options: ["Redwood", "Oak", "Birch", "Pine"],
-        answer: 0,
-        },
-        {
-        question: "Who is the lead actor in the movie 'The Departed'?",
-        options: ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson", "Mark Wahlberg"],
-        answer: 0,
-        },
-        {
-        question: "What is the name of the world's largest bay by area?",
-        options: ["Bay of Bengal", "Hudson Bay", "Gulf of Mexico", "Bay of Fundy"],
-        answer: 1,
-        },
-        {
-        question: "What is the name of the world's largest waterfall by width?",
-        options: ["Niagara Falls", "Angel Falls", "Victoria Falls", "Iguazu Falls"],
-        answer: 3,
-        },
-        {
-            question: "What is the name of the largest moon of Saturn?",
-            options: ["Titan", "Europa", "Ganymede", "Callisto"],
-            answer: 0,
-            },
-            {
-            question: "Which country is the world's largest producer of coffee?",
-            options: ["Brazil", "Colombia", "Vietnam", "Ethiopia"],
-            answer: 0,
-            },
-            {
-            question: "What is the name of the nuclear disaster that occurred in Ukraine in 1986?",
-            options: ["Chernobyl", "Three Mile Island", "Fukushima", "Hiroshima"],
-            answer: 0,
-            },
-            {
-            question: "Who is the current President of France?",
-            options: ["Emmanuel Macron", "François Hollande", "Nicolas Sarkozy", "Jacques Chirac"],
-            answer: 0,
-            },
-            {
-            question: "What is the name of the largest planet in our solar system?",
-            options: ["Jupiter", "Saturn", "Mars", "Venus"],
-            answer: 0,
-            },
-            {
-            question: "Who is the current Prime Minister of Canada?",
-            options: ["Justin Trudeau", "Stephen Harper", "Jean Chrétien", "Brian Mulroney"],
-            answer: 0,
-            },
-            {
-            question: "What is the name of the world's largest oil producing country?",
-            options: ["United States", "Saudi Arabia", "Russia", "Iran"],
-            answer: 1,
-            },
-            {
-            question: "What is the name of the largest continent by area?",
-            options: ["Asia", "Africa", "North America", "Europe"],
-            answer: 0,
-            },
-            {
-            question: "What is the name of the current Chancellor of Germany?",
-            options: ["Angela Merkel", "Gerhard Schröder", "Helmut Kohl", "Willy Brandt"],
-            answer: 0,
-            },
-            {
-            question: "What is the name of the largest organ in the human body?",
-            options: ["Liver", "Brain", "Heart", "Skin"],
-            answer: 3,
-            },
-            {
-            question: "Who is the current Prime Minister of India?",
-            options: ["Narendra Modi", "Rahul Gandhi", "Manmohan Singh", "Indira Gandhi"],
-            answer: 0,
-            },
-            {
-            question: "What is the name of the largest animal on Earth?",
-            options: ["Blue whale", "African elephant", "Giraffe", "Hippopotamus"],
-            answer: 0,
-            },
-            {
-            question: "Who is the current Prime Minister of the United Kingdom?",
-            options: ["Boris Johnson", "Theresa May", "David Cameron", "Tony Blair"],
-            answer: 0,
-            },
-            {
-            question: "What is the name of the largest bird in the world?",
-            options: ["Ostrich", "Condor", "Eagle", "Swan"],
-            answer: 0,
-            },
-            {
-            question: "Who is the current President of the United States?",
-            options: ["Joe Biden", "Donald Trump", "Barack Obama", "George W. Bush"],
-            answer: 0,
-            },
-            {
-            question: "What is the name of the largest ocean by area?",
-            options: ["Pacific", "Atlantic", "Indian", "Southern"],
-            answer: 0,
-            },
-            {
-                question: "What is the capital of Switzerland?",
-                options: ["Geneva", "Zurich", "Bern", "Basel"],
-                answer: 2,
-                },
-                {
-                question: "What is the name of the world's largest coral reef system?",
-                options: ["Great Barrier Reef", "Hawaiian Reef", "Belize Barrier Reef", "Andros Barrier Reef"],
-                answer: 0,
-                },
-                {
-                question: "Who is the founder of SpaceX?",
-                options: ["Elon Musk", "Jeff Bezos", "Mark Zuckerberg", "Steve Jobs"],
-                answer: 0,
-                },
-                {
-                question: "What is the name of the world's largest river by discharge?",
-                options: ["Amazon", "Nile", "Yangtze", "Mississippi"],
-                answer: 0,
-                },
-                {
-                question: "What is the name of the messaging app developed by Google?",
-                options: ["WhatsApp", "Facebook Messenger", "Snapchat", "Google Hangouts"],
-                answer: 3,
-                },
-                {
-                question: "What is the name of the world's largest lake by volume?",
-                options: ["Superior", "Huron", "Victoria", "Caspian Sea"],
-                answer: 3,
-                },
-                {
-                question: "What is the name of the social networking site that allows users to 'pin' images and videos?",
-                options: ["Facebook", "Twitter", "Instagram", "Pinterest"],
-                answer: 3,
-                },
-                {
-                question: "What is the name of the world's largest island?",
-                options: ["Greenland", "Madagascar", "Borneo", "Sumatra"],
-                answer: 0,
-                },
-                {
-                question: "What is the name of the software company that produces Photoshop, Acrobat, and InDesign?",
-                options: ["Microsoft", "Apple", "Adobe", "Oracle"],
-                answer: 2,
-                },
-                {
-                question: "What is the name of the world's largest country by area?",
-                options: ["Russia", "China", "United States", "Brazil"],
-                answer: 0,
-                },
-                {
-                question: "What is the name of the online payment system owned by eBay?",
-                options: ["PayPal", "Stripe", "Square", "Venmo"],
-                answer: 0,
-                },
-                {
-                question: "What is the name of the world's largest bay?",
-                options: ["Bay of Bengal", "Hudson Bay", "Gulf of Mexico", "Bay of Fundy"],
-                answer: 0,
-                },
-                {
-                question: "What is the name of the company that produces the Android operating system?",
-                options: ["Apple", "Samsung", "Microsoft", "Google"],
-                answer: 3,
-                },
-                {
-                question: "What is the name of the world's largest river by length?",
-                options: ["Amazon", "Nile", "Yangtze", "Mississippi"],
-                answer: 1,
-                },
-                {
-                question: "What is the name of the company that produces the iPhone?",
-                options: ["Apple", "Samsung", "Microsoft", "Google"],
-                answer: 0,
-                },
-              
-                {
-                    question: "What is the largest stock exchange in the world by market capitalization?",
-                    options: ["New York Stock Exchange", "Shanghai Stock Exchange", "Nasdaq", "Tokyo Stock Exchange"],
-                    answer: 2,
-                    },
-                    {
-                    question: "What is the term for the price at which an investor can sell an asset in a financial market?",
-                    options: ["Ask price", "Bid price", "Strike price", "Spot price"],
-                    answer: 0,
-                    },
-                    {
-                    question: "What is the name of the investment strategy that seeks to track the performance of a specific stock market index?",
-                    options: ["Active management", "Passive management", "Index fund", "Hedge fund"],
-                    answer: 2,
-                    },
-                    {
-                    question: "What is the name of the largest hedge fund in the world?",
-                    options: ["Bridgewater Associates", "Renaissance Technologies", "AQR Capital Management", "Two Sigma Investments"],
-                    answer: 0,
-                    },
-                    {
-                    question: "What is the name of the financial index that measures the performance of the 30 largest companies listed on the Frankfurt Stock Exchange?",
-                    options: ["Dow Jones Industrial Average", "S&P 500", "Nikkei 225", "DAX"],
-                    answer: 3,
-                    },
-                    {
-                    question: "What is the name of the investment vehicle that pools money from multiple investors to buy a diversified portfolio of stocks, bonds, and other securities?",
-                    options: ["Mutual fund", "Exchange-traded fund", "Hedge fund", "Private equity fund"],
-                    answer: 0,
-                    },
-                    {
-                    question: "What is the name of the financial index that measures the performance of the 100 largest companies listed on the London Stock Exchange?",
-                    options: ["FTSE 100", "CAC 40", "Hang Seng Index", "Sensex"],
-                    answer: 0,
-                    },
-                    {
-                    question: "What is the name of the financial index that measures the performance of the 225 largest companies listed on the Tokyo Stock Exchange?",
-                    options: ["Nasdaq", "S&P/ASX 200", "Nikkei 225", "Hang Seng Index"],
-                    answer: 2,
-                    },
-                    {
-                    question: "What is the name of the financial index that measures the performance of the 500 largest publicly traded companies in the United States?",
-                    options: ["Dow Jones Industrial Average", "S&P 500", "Nasdaq Composite", "Russell 2000"],
-                    answer: 1,
-                    },
-                    {
-                    question: "What is the name of the largest investment bank in the world by revenue?",
-                    options: ["Goldman Sachs", "JPMorgan Chase", "Morgan Stanley", "Citigroup"],
-                    answer: 1,
-                    },
-                    {
-                    question: "What is the name of the financial index that measures the performance of the 40 largest companies listed on the Paris Stock Exchange?",
-                    options: ["DAX", "IBEX 35", "CAC 40", "FTSE MIB"],
-                    answer: 2,
-                    },
-                    {
-                    question: "What is the term for a financial instrument that represents ownership in a corporation?",
-                    options: ["Bond", "Stock", "Derivative", "Commodity"],
-                    answer: 1,
-                    },
+   
 
 
 
@@ -743,304 +1048,7 @@ const difficultQuestions = [
         options: ["Gross domestic product", "Consumer price index", "Unemployment rate", "Inflation rate"],
         answer: 1,
         },
-        {
-        question: "What is the name of the economic theory that emphasizes the importance of free markets, private property, and minimal government intervention in the economy?",
-        options: ["Classical economics", "Keynesian economics", "Austrian economics", "Chicago school of economics"],
-        answer: 3,
-        },
-        {
-        question: "What is the name of the measure of the level of joblessness in an economy?",
-        options: ["Gross domestic product", "Consumer price index", "Unemployment rate", "Inflation rate"],
-        answer: 2,
-        },
-        {
-        question: "What is the name of the economic system in which the means of production are owned and controlled by private individuals or entities?",
-        options: ["Socialism", "Capitalism", "Communism", "Fascism"],
-        answer: 1,
-        },
-        {
-        question: "What is the term for a situation in which there is a sustained decline in the general price level of goods and services in an economy?",
-        options: ["Recession", "Deflation", "Stagflation", "Hyperinflation"],
-        answer: 1,
-        },
 
-        {
-            question: "What is the name of the scientist who first proposed the theory of continental drift?",
-            options: ["Charles Darwin", "Alfred Wegener", "James Hutton", "Johannes Kepler"],
-            answer: 1,
-            },
-            {
-            question: "What is the name of the phenomenon in which an electron moves through a superconductor with zero electrical resistance?",
-            options: ["Superfluidity", "Superposition", "Superconductivity", "Supersymmetry"],
-            answer: 2,
-            },
-            {
-            question: "What is the name of the historical era that began with the end of the Paleolithic era and the beginning of agriculture?",
-            options: ["Neolithic", "Bronze Age", "Iron Age", "Renaissance"],
-            answer: 0,
-            },
-            {
-            question: "What is the name of the economic theory that argues that government deficits are necessary to stimulate economic growth during a recession?",
-            options: ["Supply-side economics", "Monetarism", "New Keynesianism", "Modern Monetary Theory"],
-            answer: 3,
-            },
-            {
-            question: "What is the name of the Japanese art of paper folding?",
-            options: ["Kirigami", "Origami", "Tatting", "Quilling"],
-            answer: 1,
-            },
-            {
-            question: "What is the name of the largest moon of Neptune?",
-            options: ["Triton", "Nereid", "Proteus", "Larissa"],
-            answer: 0,
-            },
-            {
-            question: "What is the name of the famous theorem in mathematics that states that any continuous, closed curve in a plane can be drawn without lifting the pencil from the paper?",
-            options: ["Pythagorean theorem", "Fermat's last theorem", "Poincaré conjecture", "Jordan curve theorem"],
-            answer: 3,
-            },
-            {
-            question: "What is the name of the scientist who first proposed the law of universal gravitation?",
-            options: ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
-            answer: 0,
-            },
-            {
-            question: "What is the name of the technology that enables computers to understand and interpret human language?",
-            options: ["Machine learning", "Artificial intelligence", "Natural language processing", "Speech recognition"],
-            answer: 2,
-            },
-            {
-            question: "What is the name of the ancient city in present-day Iraq that was the center of the Babylonian Empire?",
-            options: ["Persepolis", "Nineveh", "Uruk", "Babylon"],
-            answer: 3,
-            },
-            {
-            question: "What is the name of the process by which a solid changes directly to a gas without passing through the liquid state?",
-            options: ["Melting", "Freezing", "Sublimation", "Condensation"],
-            answer: 2,
-            },
-            {
-            question: "What is the name of the particle in physics that is responsible for the force of gravity?",
-            options: ["Photon", "Graviton", "W boson", "Z boson"],
-            answer: 1,
-            },
-            {
-            question: "What is the name of the disease that caused the Black Death in Europe in the 14th century?",
-            options: ["Smallpox", "Measles", "Plague", "Typhus"],
-            answer: 2,
-            },
-
-   
-    {
-        question: "Who is the author of the novel 'The Grapes of Wrath'?",
-        options: ["John Steinbeck", "Ernest Hemingway", "F. Scott Fitzgerald", "Virginia Woolf"],
-        answer: 0,
-        },
-        {
-        question: "What is the name of the world's largest delta?",
-        options: ["Okavango Delta", "Ganges-Brahmaputra Delta", "Mekong Delta", "Niger Delta"],
-        answer: 1,
-        },
-        {
-        question: "Who is the lead actor in the movie 'The Shawshank Redemption'?",
-        options: ["Tim Robbins", "Morgan Freeman", "Tom Hanks", "Brad Pitt"],
-        answer: 0,
-        },
-        {
-        question: "What is the name of the chemical element with the symbol 'Na'?",
-        options: ["Sodium", "Chlorine", "Nitrogen", "Carbon"],
-        answer: 0,
-        },
-        {
-        question: "Who is the lead actor in the movie 'Pulp Fiction'?",
-        options: ["John Travolta", "Samuel L. Jackson", "Uma Thurman", "Harvey Keitel"],
-        answer: 0,
-        },
-        {
-        question: "What is the name of the world's largest bay?",
-        options: ["Bay of Bengal", "Hudson Bay", "Gulf of Mexico", "Bay of Fundy"],
-        answer: 0,
-        },
-        {
-        question: "Who is the author of the novel '1984'?",
-        options: ["George Orwell", "Aldous Huxley", "J.D. Salinger", "Ernest Hemingway"],
-        answer: 0,
-        },
-        {
-        question: "What is the name of the chemical element with the symbol 'Ca'?",
-        options: ["Calcium", "Chlorine", "Carbon", "Copper"],
-        answer: 0,
-        },
-        {
-        question: "Who is the lead actor in the movie 'Saving Private Ryan'?",
-        options: ["Tom Hanks", "Matt Damon", "Edward Burns", "Tom Sizemore"],
-        answer: 0,
-        },
-        {
-        question: "What is the name of the world's largest hot desert?",
-        options: ["Sahara", "Arabian", "Gobi", "Antarctic"],
-        answer: 0,
-        },
-        {
-        question: "What is the name of the world's tallest tree species?",
-        options: ["Redwood", "Oak", "Birch", "Pine"],
-        answer: 0,
-        },
-        {
-        question: "Who is the lead actor in the movie 'The Departed'?",
-        options: ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson", "Mark Wahlberg"],
-        answer: 0,
-        },
-        {
-        question: "What is the name of the world's largest bay by area?",
-        options: ["Bay of Bengal", "Hudson Bay", "Gulf of Mexico", "Bay of Fundy"],
-        answer: 1,
-        },
-        {
-        question: "What is the name of the world's largest waterfall by width?",
-        options: ["Niagara Falls", "Angel Falls", "Victoria Falls", "Iguazu Falls"],
-        answer: 3,
-        },
-        {
-            question: "What is the name of the law in physics that states that the entropy of a closed system always increases over time?",
-            options: ["Newton's laws of motion", "Law of conservation of energy", "Second law of thermodynamics", "Hooke's law"],
-            answer: 2,
-            },
-            {
-            question: "What is the name of the smallest unit of a chemical element that retains the chemical properties of that element?",
-            options: ["Proton", "Electron", "Neutron", "Atom"],
-            answer: 3,
-            },
-            {
-            question: "What is the name of the ancient civilization that built the city of Machu Picchu in present-day Peru?",
-            options: ["Aztec", "Inca", "Maya", "Toltec"],
-            answer: 1,
-            },
-            {
-            question: "What is the name of the process by which plants use energy from sunlight to convert carbon dioxide and water into glucose?",
-            options: ["Photosynthesis", "Respiration", "Fermentation", "Glycolysis"],
-            answer: 0,
-            },
-            {
-            question: "What is the name of the largest artery in the human body?",
-            options: ["Femoral artery", "Carotid artery", "Aorta", "Brachial artery"],
-            answer: 2,
-            },
-            {
-            question: "What is the name of the concept in physics that states that particles can exist in multiple states or locations at the same time?",
-            options: ["Quantum entanglement", "Quantum superposition", "Quantum tunneling", "Quantum decoherence"],
-            answer: 1,
-            },
-            {
-            question: "What is the name of the historical period in Japan that began in 1185 and ended in 1333?",
-            options: ["Edo period", "Heian period", "Kamakura period", "Muromachi period"],
-            answer: 2,
-            },
-            {
-            question: "What is the name of the process by which an organism evolves to become better suited to its environment?",
-            options: ["Natural selection", "Genetic mutation", "Gene flow", "Genetic drift"],
-            answer: 0,
-            },
-            {
-            question: "What is the name of the element with the atomic number 92 and the symbol U?",
-            options: ["Uranium", "Plutonium", "Neptunium", "Americium"],
-            answer: 0,
-            },
-            {
-            question: "What is the name of the Russian monk who famously contributed to the development of the periodic table?",
-            options: ["Dmitri Mendeleev", "Ivan Pavlov", "Lev Landau", "Andrei Sakharov"],
-            answer: 0,
-            },
-            {
-                question: "What is the name of the German philosopher who wrote 'Beyond Good and Evil' and 'Thus Spoke Zarathustra'?",
-                options: ["Immanuel Kant", "Friedrich Nietzsche", "Jean-Paul Sartre", "Martin Heidegger"],
-                answer: 1,
-                },
-                {
-                question: "What is the name of the particle in physics that carries the weak force?",
-                options: ["Photon", "W boson", "Graviton", "Z boson"],
-                answer: 1,
-                },
-                {
-                question: "What is the name of the ancient civilization that built the city of Petra in present-day Jordan?",
-                options: ["Hittites", "Assyrians", "Babylonians", "Nabataeans"],
-                answer: 3,
-                },
-                {
-                question: "What is the name of the phenomenon in physics that states that particles can be connected in such a way that the state of one particle affects the state of another, regardless of the distance between them?",
-                options: ["Quantum entanglement", "Quantum superposition", "Quantum tunneling", "Quantum decoherence"],
-                answer: 0,
-                },
-                {
-                question: "What is the name of the famous equation in physics that relates mass and energy?",
-                options: ["Newton's second law", "Einstein's equation", "Planck's law", "Heisenberg's uncertainty principle"],
-                answer: 1,
-                },
-                {
-                question: "What is the name of the largest vein in the human body?",
-                options: ["Jugular vein", "Femoral vein", "Hepatic vein", "Vena cava"],
-                answer: 3,
-                },
-                {
-                question: "What is the name of the ancient Greek mathematician who discovered the Pythagorean theorem?",
-                options: ["Euclid", "Pythagoras", "Archimedes", "Thales"],
-                answer: 1,
-                },
-                {
-                question: "What is the name of the process by which a cell divides into two identical daughter cells?",
-                options: ["Meiosis", "Mitosis", "Replication", "Transcription"],
-                answer: 1,
-                },
-                {
-                question: "What is the name of the phenomenon in physics that causes the deflection of moving objects when they are viewed from a rotating frame of reference?",
-                options: ["Lorentz transformation", "Foucault pendulum", "Coriolis effect", "Einstein's equivalence principle"],
-                answer: 2,
-                },
-                {
-                question: "What is the name of the American mathematician who was portrayed by Russell Crowe in the movie 'A Beautiful Mind'?",
-                options: ["John Nash", "Paul Erdős", "Andrew Wiles", "Terence Tao"],
-                answer: 0,
-                },
-                {
-                    question: "What was the name of the battle fought on June 18, 1815, in which the French army under Napoleon Bonaparte was defeated by the British and Prussian armies?",
-                    options: ["Battle of Waterloo", "Battle of Austerlitz", "Battle of Borodino", "Battle of Leipzig"],
-                    answer: 0,
-                    },
-                    {
-                    question: "What was the name of the battle fought on June 6, 1944, in which Allied forces landed on the beaches of Normandy, France, and began the liberation of Western Europe from Nazi Germany?",
-                    options: ["Battle of Stalingrad", "Battle of the Bulge", "Battle of Midway", "D-Day"],
-                    answer: 3,
-                    },
-                    {
-                    question: "What was the name of the naval battle fought on October 25, 1944, in which the United States Navy defeated the Imperial Japanese Navy and effectively ended Japan's ability to conduct large-scale naval operations?",
-                    options: ["Battle of the Coral Sea", "Battle of Guadalcanal", "Battle of Leyte Gulf", "Battle of Iwo Jima"],
-                    answer: 2,
-                    },
-                    {
-                    question: "What was the name of the battle fought on September 17, 1862, in which Confederate forces under General Robert E. Lee clashed with Union forces under General George B. McClellan in the American Civil War?",
-                    options: ["Battle of Gettysburg", "Battle of Antietam", "Battle of Chancellorsville", "Battle of Bull Run"],
-                    answer: 1,
-                    },
-                    {
-                    question: "What was the name of the battle fought on October 14, 1066, in which William the Conqueror of Normandy defeated King Harold of England and established Norman rule in England?",
-                    options: ["Battle of Hastings", "Battle of Stamford Bridge", "Battle of Agincourt", "Battle of Bosworth Field"],
-                    answer: 0,
-                    },
-                    {
-                    question: "What was the name of the battle fought on June 4-7, 1942, in which United States naval and air forces defeated a Japanese fleet near Midway Island and turned the tide of the Pacific War?",
-                    options: ["Battle of the Coral Sea", "Battle of Guadalcanal", "Battle of Leyte Gulf", "Battle of Midway"],
-                    answer: 3,
-                    },
-                    {
-                    question: "What was the name of the battle fought on July 1-3, 1863, in which Confederate forces under General Robert E. Lee were defeated by Union forces under General George G. Meade in the American Civil War?",
-                    options: ["Battle of Gettysburg", "Battle of Antietam", "Battle of Chancellorsville", "Battle of Bull Run"],
-                    answer: 0,
-                    },
-                    {
-                    question: "What was the name of the battle fought on November 30, 1874, in which British forces under General Frederick Roberts defeated Afghan forces led by Akbar Khan in the Second Anglo-Afghan War?",
-                    options: ["Battle of Isandlwana", "Battle of Maiwand", "Battle of Kabul", "Battle of Kandahar"],
-                    answer: 3,
-                    },
 
     // Add your difficult questions here
 ];
